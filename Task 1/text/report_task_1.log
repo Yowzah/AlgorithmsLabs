@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.23)  18 SEP 2020 00:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.23)  21 SEP 2020 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -825,92 +825,113 @@ LaTeX Font Warning: Font shape `T2A/cmr/bx/n' in size <18> not available
 
 
 LaTeX Font Warning: Font shape `T2A/cmr/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 97.
+(Font)              size <17.28> substituted on input line 98.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.100 	G
+l.102 	G
         iven the polynomial $p(x)=\sum_{k=1}^n a_i x^i=a_0+a_1 x+a_2 x^2+a_3...
-[1]
-<../pictures/constant.png, id=89, 722.7pt x 722.7pt>
+[1] [2] [3] [4] [5]
+<../pictures/constant.png, id=144, 722.7pt x 722.7pt>
 File: ../pictures/constant.png Graphic file (type png)
 <use ../pictures/constant.png>
-Package pdftex.def Info: ../pictures/constant.png  used on input line 127.
+Package pdftex.def Info: ../pictures/constant.png  used on input line 191.
 (pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2]
-<../pictures/sumOfVector.png, id=98, 722.7pt x 722.7pt>
+<../pictures/sumOfVector.png, id=146, 722.7pt x 722.7pt>
 File: ../pictures/sumOfVector.png Graphic file (type png)
 <use ../pictures/sumOfVector.png>
-Package pdftex.def Info: ../pictures/sumOfVector.png  used on input line 140.
+Package pdftex.def Info: ../pictures/sumOfVector.png  used on input line 197.
 (pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../pictures/productOfVector.png, id=100, 722.7pt x 722.7pt>
+<../pictures/productOfVector.png, id=147, 722.7pt x 722.7pt>
 File: ../pictures/productOfVector.png Graphic file (type png)
 <use ../pictures/productOfVector.png>
-Package pdftex.def Info: ../pictures/productOfVector.png  used on input line 14
-9.
+Package pdftex.def Info: ../pictures/productOfVector.png  used on input line 20
+3.
 (pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../pictures/calculatePolinom.png, id=103, 722.7pt x 722.7pt>
+<../pictures/calculatePolinom.png, id=148, 722.7pt x 722.7pt>
 File: ../pictures/calculatePolinom.png Graphic file (type png)
 <use ../pictures/calculatePolinom.png>
-Package pdftex.def Info: ../pictures/calculatePolinom.png  used on input line 1
-59.
+Package pdftex.def Info: ../pictures/calculatePolinom.png  used on input line 2
+09.
 (pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<../pictures/horners.png, id=104, 722.7pt x 722.7pt>
+<../pictures/horners.png, id=149, 722.7pt x 722.7pt>
 File: ../pictures/horners.png Graphic file (type png)
 <use ../pictures/horners.png>
-Package pdftex.def Info: ../pictures/horners.png  used on input line 166.
+Package pdftex.def Info: ../pictures/horners.png  used on input line 215.
 (pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2019/02/27 1.8b listings language file
-) [3 <../pictures/constant.png>]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 177.
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 177
-.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [4 <../pictures/sumOfVector.png>] [5 <../pictures/productOfVector.png>] [6 <.
-./pictures/calculatePolinom.png>] [7 <../pictures/horners.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 247.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../pictures/bubbleSort.png, id=150, 722.7pt x 722.7pt>
+File: ../pictures/bubbleSort.png Graphic file (type png)
+<use ../pictures/bubbleSort.png>
+Package pdftex.def Info: ../pictures/bubbleSort.png  used on input line 221.
+(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../pictures/quickSort.png, id=151, 722.7pt x 722.7pt>
+File: ../pictures/quickSort.png Graphic file (type png)
+<use ../pictures/quickSort.png>
+Package pdftex.def Info: ../pictures/quickSort.png  used on input line 227.
+(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../pictures/timSort.png, id=152, 722.7pt x 722.7pt>
+File: ../pictures/timSort.png Graphic file (type png)
+<use ../pictures/timSort.png>
+Package pdftex.def Info: ../pictures/timSort.png  used on input line 233.
+(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../pictures/matrix.png, id=153, 722.7pt x 361.35pt>
+File: ../pictures/matrix.png Graphic file (type png)
+<use ../pictures/matrix.png>
+Package pdftex.def Info: ../pictures/matrix.png  used on input line 239.
+(pdftex.def)             Requested size: 361.3491pt x 180.67456pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
+[6 <../pictures/constant.png>] [7 <../pictures/sumOfVector.png>] [8 <../picture
+s/productOfVector.png>] [9 <../pictures/calculatePolinom.png>] [10 <../pictures
+/horners.png>] [11 <../pictures/bubbleSort.png>] [12 <../pictures/quickSort.png
+>] [13 <../pictures/timSort.png> <../pictures/matrix.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
  (./report_task_1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 247.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 247.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
 Package rerunfilecheck Info: File `report_task_1.out' has not changed.
-(rerunfilecheck)             Checksum: 321A74AAEFC1BD48F698165B27022933;2050.
+(rerunfilecheck)             Checksum: D2FA49F91795E4ED6C1F815C6FE0F1B2;3451.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 247.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 244.
  ) 
 Here is how much of TeX's memory you used:
- 15989 strings out of 492616
- 228040 string characters out of 6129480
- 548266 words of memory out of 5000000
- 19636 multiletter control sequences out of 15000+600000
- 12914 words of font info for 30 fonts, out of 8000000 for 9000
+ 15513 strings out of 492616
+ 223532 string characters out of 6129480
+ 332155 words of memory out of 5000000
+ 19208 multiletter control sequences out of 15000+600000
+ 10693 words of font info for 26 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,14n,42p,1028b,1925s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,14n,40p,1028b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -920,16 +941,14 @@ r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
 ocal/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/loc
 al/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/tex
-live/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texli
-ve/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive
-/2019/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb></usr/local/texlive/2
-019/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on report_task_1.pdf (9 pages, 448460 bytes).
+/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on report_task_1.pdf (14 pages, 454192 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
- 229 compressed objects within 3 object streams
- 93 named destinations out of 1000 (max. 500000)
- 138 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 255 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 198 words of extra memory for PDF output out of 10000 (max. 10000000)
 
